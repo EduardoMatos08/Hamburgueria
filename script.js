@@ -27,7 +27,6 @@ function showAll(productsArray) { // Essa propriedade serve para dar o desconto 
         `
         menu.innerHTML = `${myDivs}`
     })
-
 }
 
 function tenPercentOFF() {
